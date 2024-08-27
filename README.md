@@ -6,3 +6,5 @@ Given there is dust on Mars we should try to imagine it is moving....but are all
 
 ![BB-8](https://github.com/user-attachments/assets/e56b987d-cf54-41b2-a0ea-e4519fd84c2a)
 
+Now in order to keep things short we will call BB-8 simply BB8 and setting gamma factor which equals 1 as BB8 gamma =BB8 = 1 ---> E = (BB8)*mcmod2  
+
